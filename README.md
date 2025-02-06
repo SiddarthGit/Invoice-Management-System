@@ -22,6 +22,44 @@ The Invoice Management System is a Python-based application designed to streamli
 - Reporting**: Access comprehensive reports to monitor purchases and sales.
 - Database Integration**: Robust SQL database ensures secure and efficient data storage and retrieval.
 
+## Usage
+
+### Creating an Invoice:
+- Navigate to the 'Invoice' section.
+- Click on 'Create New Invoice'.
+- Enter client details, item descriptions, quantities, prices, and applicable taxes.
+- Save the invoice to store it in the database.
+
+### Viewing Invoices:
+- Go to the 'Invoice List' section.
+- Browse through all stored invoices.
+- Use the search and filter functions to quickly locate specific records.
+- Click on an invoice to view, edit, or delete it.
+
+### Generating Reports:
+- Open the 'Reports' section.
+- Select the desired parameters (e.g., date range, client name, invoice number).
+- Generate purchase or sales reports for better financial tracking.
+- Export reports if needed for record-keeping.
+
+### Managing Transactions:
+- Navigate to the 'Transactions' page.
+- View all payments received and pending amounts.
+- Update transaction statuses when payments are completed.
+
+### Handling Orders:
+- Access the 'Orders' section.
+- View and manage client orders efficiently.
+- Update order details, track order statuses, and ensure timely processing.
+
+### Data Backup & Export:
+- Regularly back up invoice and transaction data.
+- Export data in various formats for safekeeping.
+
+### Exiting the Application:
+- Ensure all changes are saved.
+- Close the application through the 'Exit' option in the main menu.
+
 ## Installation
 
 1. Clone the Repository**:
